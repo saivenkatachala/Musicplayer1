@@ -27,13 +27,13 @@ const songs = [
     { title: 'Eyy Bidda Idhi Naa Adda song', source: 'song15.mp3', image: 'song9.jpg' },
     { title: 'Oo Antava Oo Oo Antava song', source: 'song16.mp3', image: 'song9.jpg' },
 
-    { title: 'Nattu Nattu song', source: 'song17.mp3', image: 'song20.webp' },
-    { title: 'Komma Uyyala song', source: 'song18.mp3', image: 'song20.webp' },
-    { title: 'Dosti song', source: 'song19.mp3', image: 'song20.webp' },
-    { title: 'Janani song', source: 'song20.mp3', image: 'song20.webp' },
-    { title: 'Komuram Bheemudo song', source: 'song21.mp3', image: 'song20.webp' },
-    { title: 'Raamam Raaghavam song', source: 'song22.mp3', image: 'song20.webp' },
-    { title: 'Etthara Jenda song', source: 'song23.mp3', image: 'song20.webp' },
+    { title: 'Nattu Nattu song', source: 'song17.mp3', image: 'song20.jpg' },
+    { title: 'Komma Uyyala song', source: 'song18.mp3', image: 'song20.jpg' },
+    { title: 'Dosti song', source: 'song19.mp3', image: 'song20.jpg' },
+    { title: 'Janani song', source: 'song20.mp3', image: 'song20.jpg' },
+    { title: 'Komuram Bheemudo song', source: 'song21.mp3', image: 'song20.jpg' },
+    { title: 'Raamam Raaghavam song', source: 'song22.mp3', image: 'song20.jpg' },
+    { title: 'Etthara Jenda song', source: 'song23.mp3', image: 'song20.jpg' },
 ];
 
 let currentSongIndex = 0;
